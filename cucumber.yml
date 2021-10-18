@@ -5,4 +5,4 @@ pretty: --format pretty
 homolog: ENVIRONMENT=homolog
 producao: ENVIRONMENT=producao
 
-html: --format html --out=report/relatorio.html
+html: --format html --out report/relatorio.html
