@@ -4,4 +4,12 @@ module Pages
   def login
     @login ||=Login.new
   end
+
+  def cadastro
+    @cadastro ||= Cadastro.new
+  end
+
+  def home
+    @home ||= Home.new
+  end
 end

@@ -2,6 +2,7 @@ require 'capybara/cucumber'
 require 'selenium-webdriver'
 require 'site_prism'
 require 'pry'
+require 'faker'
 
 require_relative 'helper.rb'
 require_relative 'page_helper.rb'
