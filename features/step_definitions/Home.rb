@@ -9,7 +9,3 @@ end
 Então('uma mensagem toast aparecerá com a mensagem {string}') do |text|
   home.validate_error(text)
 end
-
-Então('um alerta com a frase {string}') do |text|
-  pending
-end

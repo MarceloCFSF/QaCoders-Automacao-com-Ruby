@@ -28,4 +28,3 @@ Dado que eu esteja na pagina de "Login" do Qa.Coders
 Quando informo os dados de acesso, com um e-mail invalido
 E clico no botão "Entrar"
 Então uma mensagem toast aparecerá com a mensagem "Os dados informados são inválidos"
-E um alerta com a frase "Please include @ in the email address."

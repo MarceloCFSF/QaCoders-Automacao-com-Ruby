@@ -29,7 +29,6 @@ Dado que eu esteja na pagina de "Cadastro de Usuário"
 Quando preencho o formulário de "Cadastro de Usuário" com e-mail inválido
 E clico no botão "Registrar"
 Então uma mensagem toast aparecerá com a mensagem "O e-mail informado está inválido"
-E um alerta com a frase "Please include @ in the email address."
 
 @cadastroSenhasDiferentes
 Cenario: Cadastro com Senhas Diferentes
